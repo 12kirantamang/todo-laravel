@@ -1,0 +1,3 @@
+# docker compose 用の設定（各自の UID / GID が入る）
+/.env
+.DS_Store
