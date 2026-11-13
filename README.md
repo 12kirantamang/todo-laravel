@@ -107,3 +107,4 @@ todo-laravel/
 - `permission denied ... docker.sock` → `docker` グループに入っていない。`sudo usermod -aG docker $USER` のあと、ログインし直す
 - `port is already allocated` → 8000 / 8080 を使っているアプリを止めるか、`docker-compose.yml` のポート番号を変える
 - `src/` のファイルを保存できない → `sudo chown -R $USER:$USER src`
+タマンキラン
